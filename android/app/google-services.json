@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433353257758",
+    "project_id": "mystk-d9b81",
+    "storage_bucket": "mystk-d9b81.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433353257758:android:2ae377a1c2786352ec8f0f",
+        "android_client_info": {
+          "package_name": "com.stk.stk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKKJag3OR9IWcH0EDUjRmT30DnX1rxarY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
